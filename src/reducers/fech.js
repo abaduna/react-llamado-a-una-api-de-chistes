@@ -22,7 +22,8 @@ export const fechReducer =(state,action)=>{
                     joke: action.payload.joke,
                     lang: action.payload.lang,
                     safe: action.payload.safe,
-                    type: action.payload.type
+                    type: action.payload.type,
+                    delivery: action.payload.delivery
                     }
             }
         case(ACTIONS.SET_ERROR):

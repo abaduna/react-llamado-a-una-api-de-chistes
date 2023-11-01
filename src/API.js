@@ -1,2 +1,5 @@
 import axios from "axios"
-export const API = axios.create({baseURL:"https://v2.jokeapi.dev/joke/Any?lang=es"})
+export const API = axios.create({baseURL:"https://v2.jokeapi.dev/joke"})
+//https://v2.jokeapi.dev/
+//joke/Any?lang=es
+//languages
