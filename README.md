@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![image](https://github.com/abaduna/react-llamado-a-una-api-de-chistes/assets/64230830/0a072db0-2a25-4c1e-9e09-49f15e86733d)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
